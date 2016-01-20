@@ -8,18 +8,18 @@ platform: all
 version: all
 output: web
 destination: ../doc_outputs/mydoc/designers
-topnav_title: Jekyll Documentation Theme
-homepage_title: Jekyll doc theme for designers
-site_title: Jekyll theme for designers
+topnav_title: AgileSafe
+homepage_title: AgileSafe
+site_title: AgileSafe
 project_folder: mydoc
-company_name: Your company
+company_name: Katarzyna Łukasiewicz
 footer_image_location: ../common_images/company_logo.png
-github_editme_path: tomjohnson1492/documentation-theme-jekyll/edit/reviews
-disqus_shortname: idrbwjekyll
+github_editme_path:
+#disqus_shortname: idrbwjekyll
 # variables
 
-sidebar_tagline: Designers
-sidebar_version: Version 4.0
+sidebar_tagline: AgileSafe
+sidebar_version:  safety friendly agile approach
 theme_file: theme-blue.css
 pdf_file_name: mydoc_designers_pdf.pdf
 
@@ -33,7 +33,7 @@ exclude:
 
 # same for all
 host: 127.0.0.1
-feedback_email: tomjohnson1492@gmail.com
+feedback_email: katarzyna.lukasiewicz@pg.gda.pl
 
 markdown: redcarpet
 
@@ -53,7 +53,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      comments: true
+      comments: false
       search: true
   -
     scope:
@@ -61,7 +61,7 @@ defaults:
       type: "tooltips"
     values:
       layout: "page"
-      comments: true
+      comments: false
       search: true
       tooltip: true
 
