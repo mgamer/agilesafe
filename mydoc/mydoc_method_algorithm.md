@@ -29,7 +29,6 @@ Actors:
 *	User – Process Manager?
 *	Team
 
-{% include custom/tables1.html %}
     
 ## Artifacts
 
@@ -47,5 +46,3 @@ List of Artifacts:
 *	Evidences
 
 Types: External (not dependent on the method) / supplied by the method / created with a support of the method
-
-{% include custom/tables2.html %}
