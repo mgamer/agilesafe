@@ -8,3 +8,4 @@ series: "Getting Started"
 ---
 
 ## Overview
+Users are advised depending on their project characteristics such as which standards or regulations should it comply with, are the requirements well defined or volatile, who are the members of the team etc.. 
