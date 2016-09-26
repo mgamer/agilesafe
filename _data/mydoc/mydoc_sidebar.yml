@@ -76,7 +76,7 @@ entries:
       output: web, pdf
       items:
 
-    - title: Practices Knowledgebase
+    - title: Practices Knowledge Base
       url: /mydoc/mydoc_practices_knowledgebase.html
       audience: writers, designers
       platform: all

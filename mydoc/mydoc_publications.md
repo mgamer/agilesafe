@@ -9,6 +9,7 @@ series: "Getting Started"
 
 ## List of publications
 
+* Łukasiewicz K., J. Górski, "AgileSafe – a method of introducing agile practices into safety-critical software development processes", Federated Conference On Computer Science And Information Systems, Gdańsk, 2016
 * Łukasiewicz K. „Method of selecting programming practices for the safety-critical software development projects”, presentation at IFIP Doctoral Seminar on Software-Intensive Systems Engineering, Poznań, Poland, 2 March, 2015
 * Łukasiewicz K., Górski J., „Integrating agile practices into critical software development”, The 32nd International Conference on Computer Safety, Reliability and Security, Fast Abstracts Session, Toulouse, France, 2013
 * Górski, J., Łukasiewicz K., “Towards Agile Development of Critical Software”, A. Gorbenko, A. Romanovsky, V. Kharchenko (Eds). Software Engineering for Resilient Systems - 5th International Workshop, SERENE 2013, 3-4 October, Kiev, Ukraine, 2013. Proceedings. LNCS 8166. Springer 2013.
